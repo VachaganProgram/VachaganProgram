@@ -1,18 +1,25 @@
-# 👋 Hi, I’m Vache
-💡 **Creative. Functional. Reliable.**
+# 👋 Hi, I'm Vache
 
-Welcome to my GitHub profile!  
-I’m a passionate **Frontend Developer** with strong experience in building modern, responsive, and user-centered web applications.  
-I love transforming ideas into interactive digital experiences that combine aesthetics, functionality, and performance.
+💡 **Creative • Functional • Reliable**
+
+Welcome to my GitHub profile!
+
+I’m a **Full-Stack Web Developer** with strong experience in **Frontend development** and growing expertise in **Backend engineering**.
+
+I specialize in building **modern, responsive and user-focused web applications**, combining clean design with scalable backend systems.  
+My goal is to transform ideas into **interactive digital products that balance aesthetics, functionality and performance**.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🔥 Passionate about creating clean, efficient, and adaptive web applications.  
-🌱 Currently deepening my knowledge of **Python** and **FastAPI** to strengthen my backend development skills.  
-💞️ Always open to collaborating on projects that merge innovation, technology, and design.  
-⚡ Fun fact: Beyond coding, I’m fascinated by world history and love strategic games like **Total War: Rome 2**, **Chess**, **Assassin’s Creed**, **Age of Empires**, and **Mount & Blade 2**.
+🔥 Passionate about building modern web applications and clean architectures  
+💻 Experienced in **Frontend development with React, HTML, CSS and JavaScript**  
+⚙️ Also working with **Backend technologies using Python, FastAPI and Flask**  
+🗄️ Learning deeper concepts of **Databases, APIs and Containerization (PostgreSQL, Docker)**  
+💞️ Open to collaborating on interesting **Full-Stack projects**
+
+⚡ Fun fact: I enjoy strategy games like **Total War: Rome 2, Chess, Age of Empires, Mount & Blade 2 and Assassin’s Creed**
 
 ---
 
@@ -45,7 +52,7 @@ Git · GitHub · GitLab
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vachagan-sargsyan-b68997369/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vache3641) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/VacheArm) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/37496596961) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vacheweb2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vachagan-sargsyan-b68997369/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vache3641) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/VacheArm) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/37496596961) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.vachagan@gmail.com)
 ---
 
 ### ✍️ Random Dev Quote
