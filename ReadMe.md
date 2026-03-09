@@ -1,96 +1,62 @@
-# 👋 Hi, I'm Vache
+# 👋 Hi, I’m Vache
+💡 **Creative. Functional. Reliable.**
 
-💡 **Creative • Functional • Reliable**
-
-Frontend Developer passionate about building modern, responsive and user-focused web applications.  
-I enjoy transforming ideas into interactive digital experiences that combine **clean design, performance and usability**.
-
----
-
-# 🚀 About Me
-
-🔥 Passionate about creating clean and scalable web applications  
-🌱 Currently improving my **Backend Development skills with Python**  
-🧠 Learning more about **Databases, APIs and Containerization**  
-🎮 Fun fact: I enjoy strategy games like **Total War: Rome 2, Chess, Age of Empires, Mount & Blade 2 and Assassin's Creed**
+Welcome to my GitHub profile!  
+I’m a passionate **Frontend Developer** with strong experience in building modern, responsive, and user-centered web applications.  
+I love transforming ideas into interactive digital experiences that combine aesthetics, functionality, and performance.
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 About Me
 
-### Frontend
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-black?logo=react)
-![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![Wheezy.web](https://img.shields.io/badge/Wheezy.web-grey)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Grafana](https://img.shields.io/badge/Grafana-orange?logo=grafana)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab)
+🔥 Passionate about creating clean, efficient, and adaptive web applications.  
+🌱 Currently deepening my knowledge of **Python** and **FastAPI** to strengthen my backend development skills.  
+💞️ Always open to collaborating on projects that merge innovation, technology, and design.  
+⚡ Fun fact: Beyond coding, I’m fascinated by world history and love strategic games like **Total War: Rome 2**, **Chess**, **Assassin’s Creed**, **Age of Empires**, and **Mount & Blade 2**.
 
 ---
 
-# 🌟 Featured Projects
+## 💻 Skills
 
-### ♟ Chess History
-Web application about historical chess events and famous games.
+**Frontend Development:**  
+HTML · CSS  · JavaScript · React.js · Bootstrap · Figma 
 
-**Tech:** React.js · JavaScript · CSS  
+**Backend Development:**  
+Python · FastAPI · JSON · Vercel · Render  
 
-🔗 https://chess-history.vercel.app  
-💻 https://github.com/VachaganProgram/chess-history
-
----
-
-### 🌐 What is Web Programming
-Educational platform explaining web programming basics.
-
-**Tech:** HTML · CSS · JavaScript  
-
-🔗 https://what-is-web-programming.vercel.app  
-💻 https://github.com/VachaganProgram/what-is-web-programming
+**Version Control & Tools:**  
+Git · GitHub · GitLab  
 
 ---
 
-# 📊 GitHub Stats
+🌟 **Featured Projects**
 
-![Vache GitHub stats](https://github-readme-stats.vercel.app/api?username=VachaganProgram&show_icons=true&theme=radical)
+1. **Chess History** – A web application showcasing historical chess events and famous games. Built with **React.js**, **CSS3**, and **JavaScript**.  
+   [🔗 Live Demo](https://chess-history.vercel.app) | [💻 GitHub Repo](https://github.com/VachaganProgram/chess-history)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VachaganProgram&layout=compact&theme=radical)
+2. **What is Web Programming?** – An interactive educational app explaining the basics of web programming, built with **HTML**, **CSS**, and **JavaScript**.  
+   [🔗 Live Demo](https://what-is-web-programming.vercel.app) | [💻 GitHub Repo](https://github.com/VachaganProgram/what-is-web-programming)
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vachagan-sargsyan-b68997369/)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/vache3641)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572173837827)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vach_web_developer)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/VachaganProgram)
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/VacheArm)
 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/37496596961)
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vacheweb2004@gmail.com)
 ---
 
-### ✨ Random Dev Quote
-
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=VachaganProgram&icon=6&color=8)
+[![](https://visitcount.itsvg.in/api?id=VachaganProgram&icon=6&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
