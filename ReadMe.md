@@ -16,22 +16,26 @@ I love transforming ideas into interactive digital experiences that combine aest
 
 ---
 
-## 💻 Skills
+💻 Skills
 
-**Frontend Development:**  
-HTML · CSS  · JavaScript · React.js · Bootstrap · Figma 
+Frontend Development:
+HTML · CSS · JavaScript · React.js · Figma
 
-**Backend Development:**  
-Python · FastAPI · JSON · Vercel · Render  
+Backend Development:
+Python · FastAPI · Flask · Wheezy.web
 
-**Version Control & Tools:**  
-Git · GitHub · GitLab  
+Databases:
+MySQL · PostgreSQL
 
----
+DevOps & Deployment:
+Docker · Grafana · Vercel
+
+Version Control & Tools:
+Git · GitHub · GitLab
 
 🌟 **Featured Projects**
 
-1. **Chess History** – A web application showcasing historical chess events and famous games. Built with **React.js**, **CSS3**, and **JavaScript**.  
+1. **Chess History** – A web application showcasing historical chess events and famous games. Built with **HTML**, **CSS3**, and **JavaScript**.  
    [🔗 Live Demo](https://chess-history.vercel.app) | [💻 GitHub Repo](https://github.com/VachaganProgram/chess-history)
 
 2. **What is Web Programming?** – An interactive educational app explaining the basics of web programming, built with **HTML**, **CSS**, and **JavaScript**.  
